@@ -14,6 +14,8 @@ cd Weather
 xed .
 ```
 
+For running the simulator press Cmd + R
+
 ## Demo
 
 <img src="https://media.giphy.com/media/1msBkqSU4Fw1NlTazW/giphy.gif" width="300">
